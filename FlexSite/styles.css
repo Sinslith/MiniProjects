@@ -1,0 +1,151 @@
+.one,footer
+{
+    background-color: #1F2937;
+    color:#F9FAF8;
+}
+
+.three
+{
+    background-color: #E5E7EB;
+}
+
+nav ul
+{
+    list-style:none;
+    display:flex;
+    flex-direction: row;
+}
+
+nav li
+{
+    padding:0 30px;
+}
+
+.one
+{
+    display:flex;
+    flex-direction:column;
+    
+    align-items: center;
+}
+
+.oneone
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items: center;
+    width:80%;
+}
+
+.onetwo
+{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:center;
+    /* margin:50px 300px; */
+    width:80%;
+    
+}
+
+.two{
+    display:flex;
+    flex-direction:row;
+    gap:30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.beforetwo
+{
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+}
+
+.twotwo
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+}
+
+.three
+{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    padding:10px 40px;
+}
+
+h5
+{
+    align-self:flex-end;
+}
+
+.inside
+{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+    background-color:blue;
+    width:60%;
+    gap:0 30px;
+}
+
+.inone
+{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+.intwo
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:aqua;
+}
+
+.bot{
+    margin-bottom: 0px;
+}
+.top{
+    margin-top:0px;
+}
+.four
+{
+    display:flex;
+    
+    align-items:center;
+    justify-content:center;
+    
+   
+}
+
+footer p
+{
+    margin:0;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* *,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+} */
