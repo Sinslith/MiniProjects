@@ -1,0 +1,26 @@
+.container
+{
+    /* width:50%; */
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+img{
+    display:flex;
+    width:40%;
+}
+
+.buttons
+{
+    display:flex;
+    flex-direction:row;
+}
+
+.keeping
+{
+    display:flex;
+    flex-direction:row;
+    margin-bottom:20px;
+}
